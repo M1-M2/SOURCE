@@ -1,0 +1,26 @@
+Shaw 3.0
+0 1 0 0
+TRIAL.30.SIT
+TRIAL.30.txt
+TRIAL.moi.txt
+TRIAL.tem.txt
+  12   12  12  12  0  0  0  0   12  12  12  0  0  12  12  12  0  0  0  12
+out.out
+temp.out
+moist.out
+liquid.out
+matric.out
+cantmp.out
+canhum.out
+snowtmp.out
+energy.out
+water.out
+wflow.out
+rootxt.out
+lateral.out
+frost.out
+salts.out
+solute.out
+profile.out
+extra1.out
+extra2.out
